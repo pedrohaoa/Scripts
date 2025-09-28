@@ -1,5 +1,4 @@
 %PDF-1.4
-% ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
 /F1 2 0 R /F2 3 0 R
@@ -42,7 +41,7 @@ endobj
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20250928000410+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250928000410+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author (\(anonymous\)) /CreationDate (D:20250928000410+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250928000410+00'00') /Producer ReportLab PDF  
   /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
 >>
 endobj
@@ -82,7 +81,6 @@ trailer
 <<
 /ID 
 [<43e15ff6509bfb95dd40470323cab974><43e15ff6509bfb95dd40470323cab974>]
-% ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 7 0 R
 /Root 6 0 R
